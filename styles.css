@@ -1,0 +1,9 @@
+html {
+    display: flex;
+    
+}
+
+.spotify {
+    margin-top: -1000px !important;
+    margin-left: 70rem !important;
+}
